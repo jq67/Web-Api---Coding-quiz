@@ -1,0 +1,76 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.container {
+  width: 100%
+}
+
+.gameSpace {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.header {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(72, 55, 170);
+}
+
+.heading {
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading2 {
+  padding-bottom: 3%;
+  padding-top: 1%;
+}
+
+.heading2 h1 {
+  padding-bottom: 2%;
+  padding-top: 1%;
+}
+
+#start-button {
+  margin-top: 8%;
+  margin-bottom: 8%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}
+
+.pBoarder {
+  border-bottom-style:solid;
+  width: 80%;
+  margin-left:10%;
+  margin-right: 10%;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.scorePage {
+  max-height: 25px;
+  min-height: 25px;
+  margin: 5px;
+  padding: 3px;
+}
+
+.stopwatch {
+  margin: 5px;
+}
+
+h4 {
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+#clickbtn {
+  padding: 5px;
+  margin-right: 10px;
+}

@@ -6,9 +6,7 @@
 
 A timed quiz on HTML and Javascript.
 
-
-
-
+https://jq67.github.io/Web-Api---Coding-quiz/
 
 ## Table of Contents
 
@@ -32,7 +30,7 @@ HTML, CSS and Javascript
 ### Installation Instructions
 
 ```md
-none
+Visit https://jq67.github.io/Web-Api---Coding-quiz/
 ```
 
 ## Usage
